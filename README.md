@@ -1,4 +1,4 @@
-# Code to detect gene mutation in Sickle-cell-disease with interface
+# Code to detect gene mutation in Sickle-cell-disease with interface using tkinter
 import tkinter
 # Function to detect mutations or process sequences
 def detecter_mutation():
